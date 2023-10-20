@@ -1,3 +1,6 @@
 Release v1
 
 1. Created app
+
+////////////////////////
+2. Partially completed privacy feature 
